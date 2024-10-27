@@ -3,6 +3,6 @@ package nl.avasten;
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
 @QuarkusIntegrationTest
-class GreetingResourceIT extends GreetingResourceTest {
+class BlogReaderResourceIT extends BlogReaderResourceTest {
     // Execute the same tests but in packaged mode.
 }
